@@ -1,0 +1,15 @@
+{
+  "name": "echartdoc",
+  "version": "1.0.0",
+  "description": "v1 doc",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node ./node_modules/docsify-cli/bin/docsify serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aaron",
+  "license": "MIT",
+  "dependencies": {
+    "docsify-cli": "^4.2.1"
+  }
+}
